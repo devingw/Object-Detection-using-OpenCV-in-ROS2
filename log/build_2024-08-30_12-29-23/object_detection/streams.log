@@ -1,0 +1,26 @@
+[3.783s] Invoking command in '/home/user/ros2_ws/src/object_detection': PYTHONPATH=/home/user/ros2_ws/build/object_detection/prefix_override:/home/user/ros2_ws/install/object_detection/lib/python3.10/site-packages:${PYTHONPATH} _=/usr/bin/env /usr/bin/python3 setup.py egg_info --egg-base ../../build/object_detection build --build-base /home/user/ros2_ws/build/object_detection/build install --record /home/user/ros2_ws/build/object_detection/install.log --single-version-externally-managed
+[5.262s] running egg_info
+[5.263s] writing ../../build/object_detection/object_detection.egg-info/PKG-INFO
+[5.263s] writing dependency_links to ../../build/object_detection/object_detection.egg-info/dependency_links.txt
+[5.264s] writing entry points to ../../build/object_detection/object_detection.egg-info/entry_points.txt
+[5.264s] writing requirements to ../../build/object_detection/object_detection.egg-info/requires.txt
+[5.264s] writing top-level names to ../../build/object_detection/object_detection.egg-info/top_level.txt
+[5.268s] reading manifest file '../../build/object_detection/object_detection.egg-info/SOURCES.txt'
+[5.269s] writing manifest file '../../build/object_detection/object_detection.egg-info/SOURCES.txt'
+[5.270s] running build
+[5.270s] running build_py
+[5.270s] copying object_detection/object_detection.py -> /home/user/ros2_ws/build/object_detection/build/lib/object_detection
+[5.270s] running install
+[5.270s] /usr/lib/python3/dist-packages/setuptools/command/install.py:34: SetuptoolsDeprecationWarning: setup.py install is deprecated. Use build and pip and other standards-based tools.
+[5.271s]   warnings.warn(
+[5.271s] running install_lib
+[5.273s] copying /home/user/ros2_ws/build/object_detection/build/lib/object_detection/object_detection.py -> /home/user/ros2_ws/install/object_detection/lib/python3.10/site-packages/object_detection
+[5.276s] byte-compiling /home/user/ros2_ws/install/object_detection/lib/python3.10/site-packages/object_detection/object_detection.py to object_detection.cpython-310.pyc
+[5.277s] running install_data
+[5.277s] running install_egg_info
+[5.281s] removing '/home/user/ros2_ws/install/object_detection/lib/python3.10/site-packages/object_detection-0.0.0-py3.10.egg-info' (and everything under it)
+[5.282s] Copying ../../build/object_detection/object_detection.egg-info to /home/user/ros2_ws/install/object_detection/lib/python3.10/site-packages/object_detection-0.0.0-py3.10.egg-info
+[5.282s] running install_scripts
+[5.560s] Installing image_subscriber script to /home/user/ros2_ws/install/object_detection/lib/object_detection
+[5.561s] writing list of installed files to '/home/user/ros2_ws/build/object_detection/install.log'
+[5.676s] Invoked command in '/home/user/ros2_ws/src/object_detection' returned '0': PYTHONPATH=/home/user/ros2_ws/build/object_detection/prefix_override:/home/user/ros2_ws/install/object_detection/lib/python3.10/site-packages:${PYTHONPATH} _=/usr/bin/env /usr/bin/python3 setup.py egg_info --egg-base ../../build/object_detection build --build-base /home/user/ros2_ws/build/object_detection/build install --record /home/user/ros2_ws/build/object_detection/install.log --single-version-externally-managed
