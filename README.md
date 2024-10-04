@@ -2,7 +2,7 @@
 
 The object_detection.py file contains the code required to detect objects.
 
-The code has been implemented on TurtleBot3 and trained on the COCO dataset.
+The code has been implemented on TurtleBot3 and the YOLOv3 framework has been utilised.
 
 Please make sure to include a launch file in your code.
 
