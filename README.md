@@ -6,3 +6,4 @@ The code has been implemented on TurtleBot3 and trained on the COCO dataset.
 
 Please make sure to include a launch file in your code.
 
+Credits to The Construct for providing a platform to do this.
