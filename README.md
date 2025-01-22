@@ -1,8 +1,3 @@
-
-
-The code has been implemented on TurtleBot3 and the YOLOv3 framework has been utilised.
-
-
 # Object-Detection-using-OpenCV-and-YOLOv3-in-ROS2
 
 ## Overview
@@ -11,7 +6,11 @@ This code does real-time object detection on a moving robot.
 
 These images visualise the work done by this repository:
 
-![Visualisation](./images/yolo_pose_estimation_image.gif)
+<div style="display: flex; justify-content: space-between;">
+  <img src="/images/stopsign.png" alt="Image 1" width="40%" />
+  <img src="/images/person.png" alt="Image 2" width="40%" />
+</div>
+
 
 
 ## Useful Links
